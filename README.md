@@ -1,5 +1,5 @@
 # VIBHOR YADAV
 ## About Me
-I am a studnet at ugSOT, currently learning Git and Github.
+I am a student at ugSOT, currently learning Git and Github.
 
 
